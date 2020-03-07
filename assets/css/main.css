@@ -1,0 +1,31 @@
+body{
+    color: rgb(75, 75, 75);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.link-nav{
+    color: rgb(75, 75, 75);
+}
+
+.link-nav:hover{
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+}
+
+.link-right-nav{
+    color: rgb(75, 75, 75);
+}
+
+.link-right-nav:hover{
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+}
+
+.link-other-nav{
+    color: rgb(255, 153, 0);
+}
+
+.link-other-nav:hover{
+    text-decoration: none;
+    color: rgb(255, 153, 0);
+}
